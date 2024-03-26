@@ -1,0 +1,7 @@
+npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
+
+
+to publish the package into the npm world:- npm login and then npm pub;ish 
+
+
+NAME HAS TO BE HAS TO BE DIFFERENT ALWAYS GLOBALLY
